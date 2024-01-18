@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Django, Flask
+🌱 I’m currently learning Python Core and Test Automation
 
 💬 Ask me about Python
 
